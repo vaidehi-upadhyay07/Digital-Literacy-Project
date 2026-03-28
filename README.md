@@ -20,18 +20,17 @@ This project focuses on understanding **Digital Literacy** and its importance fo
 - Covers:
   - What is Digital Literacy  
   - Useful Digital Tools  
-  - Safe Internet Practices  
-  - Professional Online Presence  
+  - Safe Internet Practices    
   
 
 ---
 
 ### 🔹 Task 2: Online Portfolio
 - Created profiles on:
-  - GitHub  
-  - LinkedIn  
-  - Kaggle  
-- Added profile screenshots  
+  - GitHub ( https://github.com/vaidehi-upadhyay07 ) 
+  - LinkedIn ( https://www.linkedin.com/in/vaidehi-upadhyay-78228537b/ ) 
+  - Kaggle  ( https://www.kaggle.com/vaidehiu21 ) 
+    
   
 
 ---
